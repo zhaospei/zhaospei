@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zhao!</h1>
-<h3 align="center">A student from UET-VNU ...</h3>
+
+I'm a student from UET-VNU...
 
 - 💬 Do not ask me about **cats**
 
