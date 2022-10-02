@@ -3,7 +3,7 @@
 
 - 💬 Do not ask me about **cats**
 
-- ⚡ Fun fact **"I love cats"**
+- ⚡ Fun fact: **"I love cats"**
 
 ### Git Analytics
 
