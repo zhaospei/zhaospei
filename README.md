@@ -9,6 +9,5 @@
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhaospei&show_icons=true&locale=en&layout=compact" alt="zhaospei" /></p>
 
-<p align="left"> &nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=zhaospei&label=Profile%20views&color=0e75b6&style=flat" alt="zhaospei" /> </p>
 
-See ya!
+&nbsp;&nbsp;See ya!
