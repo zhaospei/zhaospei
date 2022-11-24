@@ -18,6 +18,16 @@
     <a href="https://github.com/zhaospei"><img width="48%" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=zhaospei&theme=flag-india&hide_border=true"></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/zhaospei">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaospei&layout=compact&theme=flag-india"
+      alt="zhaospei's most used language"
+      width="50%"
+    />
+  </a>
+</p>
+
 
 ### Contact me:
 
