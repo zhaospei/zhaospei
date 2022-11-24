@@ -13,6 +13,11 @@
 - 💻 Computer Science Student
 - ...
 
+<p align="center">
+    <a href="https://github.com/zhaospei"><img width="48%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=zhaospei&theme=flag-india&show_icons=true&hide_border=true"></a>
+    <a href="https://github.com/zhaospei"><img width="48%" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=zhaospei&theme=flag-india&hide_border=true"></a>
+</p>
+
 
 ### Contact me:
 
