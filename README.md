@@ -28,8 +28,10 @@
   </a>
 </p>
 
-![](https://raw.githubusercontent.com/zhaospei/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/zhaospei/github-stats/master/generated/overview.svg#gh-light-mode-only)
+<p align="center">
+<img src="https://github.com/zhaospei/github-stats/blob/master/generated/overview.svg">
+<img src="https://github.com/zhaospei/github-stats/blob/master/generated/languages.svg">
+</p>
 
 
 ### Contact me:
