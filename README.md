@@ -28,6 +28,9 @@
   </a>
 </p>
 
+![](https://raw.githubusercontent.com/zhaospei/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/zhaospei/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 
 ### Contact me:
 
