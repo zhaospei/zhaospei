@@ -11,7 +11,7 @@
 
 - 📚 I’m currently learning at **UET-VNU**!
 - 💻 Computer Science Student
-- ...
+- 🔮 Dreamer...
 
 <p align="center">
     
