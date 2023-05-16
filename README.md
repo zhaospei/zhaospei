@@ -41,10 +41,15 @@
   <img src = "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt = "mysql" />
   <img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt = "mongodb" />
   
-  </br></br>
   
-<div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
+  </br></br>
+ <h2> / github stats / </h2> 
+ 
+<div align="center">
+ 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zhaospei&theme=city_lights)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zhaospei&theme=city_lights&utcOffset=8)
+  
   </div>
   </div>
 
@@ -53,4 +58,5 @@ zillastar/zillastar is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ![](https://hit.yhype.me/github/profile?user_id=48708971)
-![](https://komarev.com/ghpvc/?username=zhaospei&color=orange&style=for-the-badge)
+
+![](https://komarev.com/ghpvc/?username=zhaospei&color=blue&style=for-the-badge)
