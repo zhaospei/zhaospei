@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zhaospei/zhaospei/2b4e8734f3d361bbd5973be8ebb646b9c4a78dc0/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/zhaospei/zhaospei/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="stats"></center>
 </p>
 
 <p align = center ><img src="https://i.imgur.com/AtHdcnV.png"> </p>
