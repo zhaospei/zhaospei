@@ -1,3 +1,10 @@
+
+<p align="center">
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="https://spotify-readme-git-main-zhaospei.vercel.app/api?rainbow=true&scan=true&spin=true" alt="Current Spotify Song">
+</a>
+<p>
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <h2 align="center"> 💻 Github stats </h2>
