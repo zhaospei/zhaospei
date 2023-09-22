@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="https://github.com/tthn0/Spotify-Readme">
+<a href="https://spotify-readme-git-main-zhaospei.vercel.app/api?rainbow=true&scan=true&spin=true">
   <img src="https://spotify-readme-git-main-zhaospei.vercel.app/api?rainbow=true&scan=true&spin=true" alt="Current Spotify Song">
 </a>
 <p>
