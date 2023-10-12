@@ -1,6 +1,9 @@
 ### Hi there 
-
 --- 
+<p align="center">
+  <img width="49.5%" src="https://github.com/zhaospei/zhaospei/blob/main/giphy%20(1).gif?raw=true" />
+<p>
+
 👋 Hi, I’m @zhaospei. I’m a student at the [UET-VNU](https://uet.vnu.edu.vn/).
 
 🔭 I’m interested in ML and hope to use it in medicine someday.
